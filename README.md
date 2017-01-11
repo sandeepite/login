@@ -3,6 +3,7 @@ Create database name 'project_test'
 I have created two table as follow
 
 -- Table structure for table `login`
+
 CREATE TABLE IF NOT EXISTS `login` (
   `username` varchar(200) NOT NULL,
   `password` varchar(200) NOT NULL,
@@ -15,6 +16,7 @@ CREATE TABLE IF NOT EXISTS `login` (
 
 
 -- Table structure for table `project`
+
 CREATE TABLE IF NOT EXISTS `project` (
   `id` int(11) NOT NULL AUTO_INCREMENT,
   `banner_images` varchar(255) NOT NULL,
