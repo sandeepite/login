@@ -33,3 +33,6 @@ CREATE TABLE IF NOT EXISTS `project` (
 Now change the username and password in config.php and connectdb.php
 
 All Done!
+
+Click the link for Demo
+http://maf16.com/web/login-master/login.php
